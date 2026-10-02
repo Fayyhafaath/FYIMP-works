@@ -2,7 +2,7 @@ package college;
 
 public class Student {
     public void display() {
-        System.out.println("Student Name: Rohith");
+        System.out.println("Student Name: Sara elizah");
         System.out.println("College: ABC College");
     }
 }
